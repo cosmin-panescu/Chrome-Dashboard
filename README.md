@@ -1,4 +1,9 @@
 # Chrome-NewTab-Dashboard
+
+<a href="https://cosmin-panescu.github.io/Chrome-Dashboard/">Live Project</a>
+
+![browser-dashboard](https://user-images.githubusercontent.com/107345473/178912271-9edd29fe-777c-4d75-bcb1-fd63affd4f79.png)
+
 Chrome NewTab Dashboard, using HTML, CSS and JavaScript. Almost all of the JavaScript part is represented by the API (such as: random background, weather/location, search and display of cryptocurrencies)
 
 Steps to use this project as a Chrome New Tab extension:
